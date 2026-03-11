@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Factory Maintenance Pro",
+  "description": "A comprehensive factory maintenance and spare parts management system with QR code scanning for machine history.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
